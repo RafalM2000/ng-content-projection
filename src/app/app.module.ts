@@ -2,12 +2,12 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { BurgerComponent } from './feature/burger/burger.component';
+import { LusowoComponent } from './feature/lusowo/lusowo.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    BurgerComponent
+    LusowoComponent
   ],
   imports: [
     BrowserModule
